@@ -1,0 +1,6 @@
+{
+  "name": "EventManager",
+  "description": "Système complet de gestion d'événements, clients, réservations, matériel, paiements et factures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
